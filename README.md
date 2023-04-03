@@ -22,6 +22,7 @@ Technologies used
 Acknowledgements
 
 This project was inspired by the GuitarTuna app.
+
 License
 
 This project is licensed under the MIT License.
