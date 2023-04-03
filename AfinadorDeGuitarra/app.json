@@ -1,4 +1,9 @@
 {
   "name": "AfinadorDeGuitarra",
-  "displayName": "AfinadorDeGuitarra"
+  "displayName": "AfinadorDeGuitarra",
+  "extra": {
+    "eas": {
+      "projectId": "3b4dd542-ceb9-46ba-b4bb-6f7616ab2385"
+    }
+  }
 }
