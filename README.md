@@ -23,6 +23,6 @@ Acknowledgements
 
 This project was inspired by the GuitarTuna app.
 
-License
+License:
 
 This project is licensed under the MIT License.
