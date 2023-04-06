@@ -1,4 +1,4 @@
-# React Native Guitar Tuner
+# React Native Guitar Tuner.
 
 Note: This project is currently under development.
 
@@ -13,13 +13,13 @@ How to run the project with Expo
     Allow the app to access your phone's microphone when prompted.
     Play a note on your guitar near your phone's microphone and the app will display the current frequency and closest note in real-time.
 
-Technologies used
+Technologies used : 
 
     React Native
     Expo
     Audio API
 
-Acknowledgements
+Acknowledgements :
 
 This project was inspired by the GuitarTuna app.
 
